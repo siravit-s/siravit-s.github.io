@@ -15,23 +15,4 @@
             padding: 0 20px 20px 20px;
             border: 5px solid black;
         }
-        img {
-            display: block;
-            margin: 0 auto;
-            border: 1px solid black;
-        }
-	table{
-		border-collapse:collapse;
-		border:2px solid rgb (200,200,200)
-		letter-spancing: 1px;	
-		font-size: 22px;
-	}	
-	td {
-		border: 1px;
-		padding: 10px 20px;
-		text-align: center;
-	}
-	figcaption {
-		text-align: center;
-	}
-	
+
